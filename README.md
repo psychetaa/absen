@@ -370,3 +370,4 @@ Kontribusi untuk penyempurnaan aplikasi ini sangat dihargai. Jika Anda menemukan
 [PlMe]: https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md
 [PlGa]: https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md
 # presensi
+# absen
